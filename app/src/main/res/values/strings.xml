@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NSApps Movies API</string>
+    <string name="action_settings">Settings</string>
+    <string name="movieExistsMsg">Current movie already exists in the Database</string>
+    <string name="invalidQR">incompatible QR contents!</string>
+    <string name="scanned">Scanned: %s</string>
+    <string name="rating">Rating: %.1f / %d</string>
+    <string name="ryear">Release year - %d</string>
+    <string name="genre">Genre: %s</string>
+    <string name="barcodeMsg">Scan a barcode of a movie</string>
+    <string name="noInternetConnection">Problem connecting to the  internet</string>
+    <string name="cantLoadMovies">We can\'t load your movies</string>
+</resources>
